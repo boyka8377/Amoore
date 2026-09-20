@@ -1,0 +1,7 @@
+{
+  "name": "Amoree The Beauty House",
+  "description": "Haute Couture Bridal & Beauty Atelier in Dhaka offering bespoke bridal transformations, hair artistry, and luxury wellness care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
